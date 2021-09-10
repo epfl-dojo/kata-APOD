@@ -66,6 +66,9 @@ dans son propre compte.
 
 ## Je l'ai fait 💪
 
+* [@Azecko](https://github.com/Azecko): [code](https://github.com/Azecko/Kata-APOD) / [app](https://azecko.github.io/Kata-APOD/)  
+  jQuery FTW
+
 * [@octocat](https://github.com/octocat): [code](https://#) / [app](https://#)  
   Une petite présentation de votre version, par exemple quelles technologies
   vous avez utilisées, qu'est-ce que votre version a de mieux que
