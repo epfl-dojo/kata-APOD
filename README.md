@@ -76,8 +76,18 @@ n'est qu'un moyen parmis beaucoup d'autres.
       cliquable si l'APOD est celui d'aujourd'hui
 - [ ] Les balises [meta](https://developer.mozilla.org/fr/docs/Web/HTML/Element/meta)
       et `<title>` sont renseignées dans le `<head>` de la page HTML
-- [ ] Point bonus : l'application est disponible en ligne, par exemple sur
+
+### Bonus
+
+- [ ] l'application est disponible en ligne, par exemple sur
       [GitHub pages](https://pages.github.com/)
+- [ ] l'application offre la possibilité de gérer la clé d'API  
+      (l'utilisateur peut mettre sa propre clé plutôt que DEMO_KEY)
+- [ ] il est possible de copie l'URL d'un APOD (avec la date d'un jour spécific)
+- [ ] il est possible d'accéder à l'APOD d'une date définie en la spécifiant dans l'URL 
+
+### Et pour finir
+
 - [ ] Une fois terminé, ajouter les liens vers votre code et/ou votre page avec
       ci-dessous
 
