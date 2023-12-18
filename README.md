@@ -96,6 +96,9 @@ n'est qu'un moyen parmis beaucoup d'autres.
 - [@Azecko](https://github.com/Azecko): [code](https://github.com/Azecko/Kata-APOD) / [app](https://azecko.github.io/Kata-APOD/)  
   jQuery FTW
 
+- [@Dwesh163](https://github.com/Dwesh163): [code](https://github.com/Dwesh163/Kata-APOD) / [app](https://Dwesh163.github.io/Kata-APOD/)  
+  Vanilla JS
+  
 - [@JaavLex](https://github.com/JaavLex): [code](https://github.com/JaavLex/Kata-APOD) / [app](https://kata-apod.vercel.app)  
   Angular CLI version 12.2.6
 
