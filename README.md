@@ -1,24 +1,26 @@
 # Kata APOD
 
+<!-- start:apropos -->
 > **À propos**
 >
 > ⓘ Ceci est la donnée d'un [kata], un _exercice de programmation_ qui se
 > déroule généralement dans le cadre d'un [coding dojo]. Il est proposé aux
 > membres du dojo de l'[EPFL] et fait partie d'une collection de différents
-> katas identifiés par le tag [epfl-dojo-kata] sur GitHub. Vous êtes plus que
-> bienvenu d'essayer de le réaliser dans le langage de programmation de votre
-> choix. Pour cela, un bon point de départ pour cela est de [forker] ce
-> repository. Le «[stargazer]» en lui ajoutant une **☆** nous fait également
-> très plaisir. Finalement, n'hésitez pas à l'améliorer en faisant des
-> [pull requests]. Bonne lecture !
+> katas identifiés par le tag **[epfl-dojo-kata]** sur GitHub.  
+> Vous êtes plus que bienvenu·e d'essayer de le réaliser dans le langage de
+> programmation de votre choix. Lorsque c'est terminé, ajoutez-vous à la liste
+> de ceux qui l'ont fait dans ce document en proposant une [Pull Request]. Vous
+> pouvez également partager votre intérêt pour ce dépôt en
+> le «[stargazant]», c'est à dire en lui ajoutant une ⭐.  
+> Bonne lecture et bon code !
 
 [kata]: https://fr.wikipedia.org/wiki/Coding_dojo#Kata
 [coding dojo]: https://fr.wikipedia.org/wiki/Coding_dojo
-[epfl]: https://www,epfl.ch
+[EPFL]: https://www.epfl.ch
 [epfl-dojo-kata]: https://github.com/topics/epfl-dojo-kata
-[forker]: https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository
-[stargazer]: https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars
-[pull requests]: https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request
+[Pull Request]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+[stargazant]: https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars
+<!-- end:apropos -->
 
 ## But
 
@@ -40,7 +42,7 @@ n'est qu'un moyen parmis beaucoup d'autres.
 
 1. L'application peut être auto-contenue dans un fichier HTML ou séparées en
    plusieurs fichiers (par exemple pour le CSS ou le JavaScript).
-1. Le code de l'application doit se trouver sur un repo git accessible
+1. Le code de l'application doit se trouver sur un repo Git accessible
    publiquement, car l'exercice porte aussi sur la qualité des messages de commits
    (et le suivi de l'évolution du code de l'application à travers ces derniers).
 1. La proposition de mise en page (ci-dessous) est une suggestion permettant de
@@ -71,20 +73,25 @@ n'est qu'un moyen parmis beaucoup d'autres.
   - [ ] D'une image, qui offrira un lien vers sa version HD
   - [ ] D'une vidéo, qui offrira un player pour la visionner
 - [ ] Des boutons suivant et précédent sont présents
-- [ ] Le bouton précédent est un lien vers l'image du jour précédent
-- [ ] Le bouton suivant est un lien vers l'image du lendemain, mais n'est pas  
-      cliquable si l'APOD est celui d'aujourd'hui
+   - [ ] Le bouton précédent est un lien vers l'image du jour précédent
+   - [ ] Le bouton suivant est un lien vers l'image du lendemain, mais n'est pas  
+         cliquable si l'APOD est celui d'aujourd'hui
 - [ ] Les balises [meta](https://developer.mozilla.org/fr/docs/Web/HTML/Element/meta)
-      et `<title>` sont renseignées dans le `<head>` de la page HTML
+      (notamment `description`, `author` et `keywords`) sont renseignées dans le
+      `<head>` de la page HTML
+- [ ] Le titre de la page (`<title>`) affiche un texte avec la date (par exemple
+      "Kata APOD 2024-09-10")
 
 ### Bonus
 
-- [ ] l'application est disponible en ligne, par exemple sur
+- [ ] L'application est disponible en ligne, par exemple sur
       [GitHub pages](https://pages.github.com/)
-- [ ] l'application offre la possibilité de gérer la clé d'API  
+- [ ] Il est possible de copier l'URL d'un APOD (avec la date d'un jour 
+      spécifique) pour la partager
+- [ ] Il est possible d'accéder à l'APOD d'une date précise en la spécifiant 
+      dans l'URL (par exemple `?date=2024-09-10`)
+- [ ] L'application offre la possibilité de gérer la clé d'API  
       (l'utilisateur peut mettre sa propre clé plutôt que DEMO_KEY)
-- [ ] il est possible de copie l'URL d'un APOD (avec la date d'un jour spécific)
-- [ ] il est possible d'accéder à l'APOD d'une date définie en la spécifiant dans l'URL 
 
 ### Et pour finir
 
