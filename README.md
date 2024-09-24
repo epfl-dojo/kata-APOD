@@ -109,6 +109,9 @@ n'est qu'un moyen parmis beaucoup d'autres.
 - [@JaavLex](https://github.com/JaavLex): [code](https://github.com/JaavLex/Kata-APOD) / [app](https://kata-apod.vercel.app)  
   Angular CLI version 12.2.6
 
+- [@Jch4ipas](https://github.com/Jch4ipas): [code](https://github.com/Jch4ipas/kata-APOD) / [app](https://jch4ipas.github.io/kata-APOD/)  
+  Vanilla JS
+
 - [@octocat](https://github.com/octocat): [code](https://#) / [app](https://#)  
   Une petite présentation de votre version, par exemple quelles technologies
   vous avez utilisées, qu'est-ce que votre version a de mieux que
