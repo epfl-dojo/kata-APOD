@@ -3,15 +3,18 @@
 <!-- start:apropos -->
 > **À propos**
 >
-> ⓘ Ceci est la donnée d'un [kata], un _exercice de programmation_ qui se
-> déroule généralement dans le cadre d'un [coding dojo]. Il est proposé aux
+> ⓘ Ce dépôt contient un [kata], c'est à dire un _exercice de programmation_
+> généralement utilisé dans le cadre d'un [coding dojo]. Il est proposé aux
 > membres du dojo de l'[EPFL] et fait partie d'une collection de différents
-> katas identifiés par le tag **[epfl-dojo-kata]** sur GitHub.  
-> Vous êtes plus que bienvenu·e d'essayer de le réaliser dans le langage de
-> programmation de votre choix. Lorsque c'est terminé, ajoutez-vous à la liste
-> de ceux qui l'ont fait dans ce document en proposant une [Pull Request]. Vous
-> pouvez également partager votre intérêt pour ce dépôt en
-> le «[stargazant]», c'est à dire en lui ajoutant une ⭐.  
+> katas identifiés par le topic **[epfl-dojo-kata]** sur GitHub.
+>
+> Comment participer ?
+>
+>  - Réalisez le kata dans le langage de programmation de votre choix.
+>  - Ajoutez-vous à la liste des participants en proposant une [pull request].
+>  - Partagez votre intérêt pour ce dépôten lui ajoutant une ⭐.
+>  - Proposez des suggestions ou signalez des bugs en ouvrant une issue.
+>
 > Bonne lecture et bon code !
 
 [kata]: https://fr.wikipedia.org/wiki/Coding_dojo#Kata
@@ -19,8 +22,10 @@
 [EPFL]: https://www.epfl.ch
 [epfl-dojo-kata]: https://github.com/topics/epfl-dojo-kata
 [Pull Request]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
-[stargazant]: https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars
+
+<!-- Texte mis à jour en juin 2025 -->
 <!-- end:apropos -->
+
 
 ## But
 
@@ -105,7 +110,7 @@ n'est qu'un moyen parmis beaucoup d'autres.
 
 - [@Dwesh163](https://github.com/Dwesh163): [code](https://github.com/Dwesh163/Kata-APOD) / [app](https://Dwesh163.github.io/Kata-APOD/)  
   Vanilla JS
-  
+
 - [@JaavLex](https://github.com/JaavLex): [code](https://github.com/JaavLex/Kata-APOD) / [app](https://kata-apod.vercel.app)  
   Angular CLI version 12.2.6
 
